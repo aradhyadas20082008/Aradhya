@@ -4,9 +4,9 @@ ctx = canvas.getContext("2d")
 rover_width = 100;
 rover_height = 90;
 
-background_image = "mars.jpg";
+background_image = "racing.jpg";
 
-rover_image = "rover.png"
+rover_image = "car1.png"
 
 rover_x = 10;
 rover_y = 10;
